@@ -1,0 +1,7 @@
+Frontend
+React.js (Framework for building the UI)
+Tailwind CSS (For styling)
+React Router (For navigation between pages)
+Firebase Authentication (For user login)
+Axios or Fetch API (For making API requests to the backend)
+React Query (For managing API state, optional but useful)

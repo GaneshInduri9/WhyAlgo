@@ -1,0 +1,5 @@
+Node.js + Express.js (For building the REST API)
+MongoDB + Mongoose (For storing user-related data if needed)
+Firebase Auth Middleware (To verify user authentication on protected routes)
+Cors & Helmet (For security)
+Cloudinary (If you need image hosting for user profiles or content)
